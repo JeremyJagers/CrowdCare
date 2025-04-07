@@ -18,3 +18,8 @@ If you’re interested in licensing CrowdCare commercially or launching your own
 📧 crowdcareapp@gmail.com | 🐦 [@CrowdCareApp](https://twitter.com/CrowdCareApp)
 
 Let’s build the future of care — together and with integrity.
+
+## 🧪 Live Demo
+👉 [Try the Live App](https://replit.com/@jeremyjagers/CrowdCareV3)  
+📷 ![CrowdCare UI](https://via.placeholder.com/900x500.png?text=CrowdCare+App+UI+Placeholder)
+
